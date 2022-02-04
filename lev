@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Сайт про игры</title>
+<style>
+body{
+	background-color:#4B0082;
+
+}
+h1{
+	text-align:center;
+}
+h3{
+	text-align:center;
+}
+</style>
+
+</head>
+
+<body>
+<h1>Сайт про игры</h1>
+<h3>CS:GO</h3>
+<a href="https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"><img src="csgo.jpeg"width="600px"
+></a><p><h3>Counter-Strike: Global Offensive (CS:GO; с англ. — «Контрудар: глобальное наступление») — многопользовательская компьютерная игра, разработанная компаниями Valve и Hidden Path Entertainment. Выпуск игры для персональных компьютеров на операционных системах Windows и macOS, также игровых приставках Xbox 360 и PlayStation 3 состоялся 21 августа 2012 года. Версия игры для Linux была выпущена в 2014 году[1], а в 2016 году игра, в рамках программы обратной совместимости, стала доступна на Xbox One[3]. В сентябре 2018 года была выпущена бесплатная версия с возможностью игры с реальными игроками и с ботами. Позже, в декабре того же года игра стала полностью бесплатной[⇨].</h3></p><iframe width="560" height="315" src="https://www.youtube.com/embed/Q78K-zeZ0zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>DOTA2</h3>
+<a href="https://www.dota2.com/home"><img src="dota.jpeg"width="600px"
+	></a><p><h3>Dota 2 — компьютерная многопользовательская командная игра в жанре multiplayer online battle arena, разработанная корпорацией Valve. Игра является продолжением DotA — пользовательской карты-модификации для игры Warcraft III: Reign of Chaos и дополнения к ней Warcraft III: The Frozen Throne. Игра изображает сражение на карте особого вида; в каждом матче участвуют две команды по пять игроков, управляющих «героями» — персонажами с различными наборами способностей. Для победы в матче команда должна уничтожить особый объект-«крепость», принадлежащий вражеской стороне, и защитить от уничтожения собственную «крепость». Dota 2 работает по модели free-to-play с элементами микроплатежей.</h3></p><iframe width="560" height="315" src="https://www.youtube.com/embed/BJHNzQ4X6KI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<h3>GTA5</h3>
+	<a href="https://www.rockstargames.com/games/V"><img src="ggta.jpeg"width="600px"
+		></a><p><h3>Grand Theft Auto V (сокр. GTA V) — мультиплатформенная компьютерная игра в жанре action-adventure с открытым миром, разработанная компанией Rockstar North и изданная компанией Rockstar Games. Изначально игра была выпущена для игровых консолей PlayStation 3 и Xbox 360 в 2013 году, в 2014 году переиздана для PlayStation 4 и Xbox One, а в 2015 году — для персональных компьютеров под управлением Windows. Является пятнадцатой по счёту игрой серии Grand Theft Auto и следующей крупной игрой после Grand Theft Auto IV, выпущенной в 2008 году[8]. В России и СНГ издателем Grand Theft Auto V выступает компания 1С-СофтКлаб.</h3>
+		</p><iframe width="560" height="315" src="https://www.youtube.com/embed/Xi_uZjUU_UI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+
+</html>
